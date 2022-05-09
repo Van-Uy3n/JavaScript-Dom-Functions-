@@ -1,6 +1,6 @@
 //Paragraph function
 var paragraph = document.createElement('P');
-paragraph.textContent = 'Johnny Suh is talented, brilliant, incredible, amazing, showstopping, spectacular!'
+paragraph.textContent = 'Johnny Suh is talented, brilliant, incredible, amazing, showstopping, and spectacular!'
 //Event listener function
 var div = document.createElement('DIV'); 
 div.style.height = '100vh';
